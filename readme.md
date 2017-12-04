@@ -8,7 +8,17 @@
   - If there are permission issues then we will use the same command but instead put 'sudo' in front.
 
 #### Installing Node with HomeBrew
-  - [Link to Troubleshoot website](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew)
+  - [What is node](https://nodejs.org/en/)
   ```
   brew install node
   ```
+  - [Link to Troubleshoot website](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew)
+
+#### Install Git with HomeBrew
+  - [What is Git?](https://www.visualstudio.com/learn/what-is-git/)
+  ```
+  brew install git
+  ```
+  - [Wiki on VCS](https://en.wikipedia.org/wiki/Version_control)
+  - [Me talking about git](https://www.youtube.com/watch?v=GK6TcGUN4ZU&list=PL2wDo1RnBFlTQBVfflHWJK3ZOdRn395er)
+  - [How to use git and Github CLI](https://www.youtube.com/watch?v=Scypwgsy5S4&list=PL2wDo1RnBFlTQBVfflHWJK3ZOdRn395er&index=2)
