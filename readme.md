@@ -22,3 +22,12 @@
   - [Wiki on VCS](https://en.wikipedia.org/wiki/Version_control)
   - [Me talking about git](https://www.youtube.com/watch?v=GK6TcGUN4ZU&list=PL2wDo1RnBFlTQBVfflHWJK3ZOdRn395er)
   - [How to use git and Github  w/ CLI](https://www.youtube.com/watch?v=Scypwgsy5S4&list=PL2wDo1RnBFlTQBVfflHWJK3ZOdRn395er&index=2)
+  
+ #### Install Git with Windows
+ - [Download the installer](https://gitforwindows.org/)
+ - When you've successfully started the installer, you should see the Git Setup wizard screen. Follow the Next and Finish prompts to complete the installation. The default options are pretty sensible for most users.
+ 
+ #### Installing Node with Windows
+ - [Download here](https://nodejs.org/en/)
+ - Open and run the installer
+ - After everything finishes installing restart your computer
